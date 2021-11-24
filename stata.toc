@@ -1,0 +1,8 @@
+v 1.0.0
+d Materials by Mehmet Mehmetoglu
+d Norwegian University of Science and Technology
+d mehmetm@ntnu.no
+
+d 'vaf': Stata module to compute mediation effect in SEM
+
+p vaf

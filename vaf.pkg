@@ -1,0 +1,10 @@
+v 1.0.0
+d 'VAF': Mediation effect
+d 
+d Stata module to compute mediation effect in SEM
+d 
+d Distribution-Date:   20211124
+d License: MIT
+d 
+F vaf.ado
+F vaf.sthlp
